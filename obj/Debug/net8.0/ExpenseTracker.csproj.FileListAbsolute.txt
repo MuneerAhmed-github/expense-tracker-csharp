@@ -1,0 +1,14 @@
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.exe
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.deps.json
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.runtimeconfig.json
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.dll
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.pdb
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfoInputs.cache
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfo.cs
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.dll
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\refint\ExpenseTracker.dll
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
+F:\Dev\Projects\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll

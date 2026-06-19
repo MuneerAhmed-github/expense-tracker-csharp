@@ -1,0 +1,2 @@
+1|Food|500|Food|19-06-2026
+2|Shopping|2000|Shopping|19-06-2026
