@@ -52,9 +52,13 @@ namespace ExpenseTracker
             Console.WriteLine("\n--- Add New Expense ---");
             Console.Write("Enter Title: ");
             string? title = Console.ReadLine();
-
+            decimal amount;
             Console.Write("Enter Amount: ");
-            decimal amount = decimal.Parse(Console.ReadLine()!);
+            while (!decimal.TryParse(Console.ReadLine(), out amount) || amount <= 0)
+            {
+                Console.WriteLine("Invalid amount! Please enter a valid positive number.");
+                Console.Write("Enter Amount: ");
+            }
             Console.WriteLine("Categories: Food | Travel | Shopping | Bills | Entertainment | Other");
             Console.Write("Enter Category: ");
             string? category = Console.ReadLine();
